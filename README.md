@@ -1,2 +1,2 @@
-# irpf-chat
-Um agente desenvolvido no Databricks para te ajudar a preencher sua declaração.
+# rag-chat
+Um chat desenvolvido no Databricks para te ajudar a conversar com um conjunto específico de dados.
