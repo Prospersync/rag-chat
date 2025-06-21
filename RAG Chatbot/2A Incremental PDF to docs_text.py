@@ -10,7 +10,7 @@ import os
 from pyspark.sql.functions import substring_index
 
 # Directory path
-directory_path = "/Volumes/agents/irpf/source_docs"
+directory_path = "/Volumes/workspace/chatbot/source_docs"
 
 # List files in directory
 file_paths = [file.path for file in dbutils.fs.ls(directory_path)]
